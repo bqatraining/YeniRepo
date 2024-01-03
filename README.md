@@ -1,0 +1,2 @@
+# YeniRepo
+Repo Deneme
